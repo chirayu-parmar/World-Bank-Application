@@ -1,0 +1,43 @@
+[{"analysis": "Forest Area (% of land area)", 
+    "start": "2000",
+    "end":"2020"
+   },
+   
+   {"analysis": "Air Pollution & Forest area", 
+    "start": "2013",
+    "end":"2019"}
+    
+    {"analysis": "Government expenditure on education, total (% of GDP)", 
+    "start": "2005",
+    "end":"2011"
+    },
+   
+    {"analysis": "GDP Per Capita vs CO2 Emissions", 
+    "start": "2002",
+    "end":"2012"
+    },
+   
+   {"analysis": "GDP per 1000 capita & Education expenditure & Health expenditure", 
+    "start": "2004",
+    "end":"2010"
+    },
+    
+    {"analysis": "Health expenditure (per 1000 people) vs Hospital beds (per 1,000 people)", 
+    "start": "2005",
+    "end":"2019"
+    },
+    
+    {"analysis": "Total Population & CO2 emissions (metric tons per capita)", 
+    "start": "2013",
+    "end":"2019"
+    },
+    
+    {"analysis": "Covid Deaths Per Year", 
+    "start": "2020",
+    "end":"2021"
+    },
+    
+    {"analysis": "Total Population & Energy use (kg of oil equivalent per 1000 capita)", 
+    "start": "2002",
+    "end":"2012"
+    },]

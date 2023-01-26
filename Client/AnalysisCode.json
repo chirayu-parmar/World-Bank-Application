@@ -1,0 +1,13 @@
+{ 
+
+"Forest Area (% of land area)" : "ForestArea",
+ "Air Pollution & Forest area" : "AirPollutionForestarea",
+ "GDP Per Capita vs CO2 Emissions" : "GDPPerCapitavsCO2Emissions",
+ "Government expenditure on education, total (% of GDP)" : "GovernmentEducationExpenditure",
+ "Health expenditure (per 1000 people) vs Hospital beds (per 1,000 people)" : "HealthExpenditurevsHospitalBeds",
+ "Total Population & Energy use (kg of oil equivalent per 1000 capita)" : "TotalPopulationEnergyUse",
+ "Total Population & CO2 emissions (metric tons per capita)" : "TotalPopulationCO2Emissions",
+ "GDP per 1000 capita & Education expenditure & Health expenditure" : "GDPPerCapitaEducationExpenditureHealthExpenditure",
+ "Covid Deaths Per Year" : "CovidDeaths"
+  
+}
